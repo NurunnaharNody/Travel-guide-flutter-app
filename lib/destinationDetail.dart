@@ -134,7 +134,7 @@ class DestinationPage extends StatelessWidget {
                               SizedBox(height: 10),
                               PrimaryText(
                                   text:
-                                      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.',
+                                      'The Official Visitors Guide Has Tons Of Ideas For How To Spend A Day Or Weekend In CLE. Fill Up A Day Trip Or Make It A Night Out With The Latest Official Visitors Guide. View Event Calendar. Sign Up For Updates. Check Blog.',
                                   size: 15,
                                   fontWeight: FontWeight.w500,
                                   color: Colors.white38),

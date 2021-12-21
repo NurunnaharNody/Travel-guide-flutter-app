@@ -31,7 +31,7 @@ const hotDestination = [
   },
   {
     'imagePath': 'assets/city.jpg',
-    'placeName': 'NEWYORK',
+    'placeName': 'NEW ISLAND',
     'placeCount': '20 Tourist place',
   },
   
